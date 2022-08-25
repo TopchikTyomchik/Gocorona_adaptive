@@ -495,12 +495,13 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 
+
+.top-advantages__column {
+}
 @media  (max-width:767.98px){
-  .top-advantages__items {
+  .top-advantages__column {
     flex: 0 1 100%;
   }
-}
-.top-advantages__column {
 }
 
 .top-advantages__column:last-child {
